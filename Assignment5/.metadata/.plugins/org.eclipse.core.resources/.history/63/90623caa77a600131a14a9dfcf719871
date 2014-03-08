@@ -1,0 +1,11 @@
+package com.dbhelper;
+
+import android.content.Context;
+
+public class MyClass {
+    Context c;
+    public MyClass(Context context)
+    {
+         c= context;
+     }
+}
